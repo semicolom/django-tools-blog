@@ -22,3 +22,5 @@ TEMPLATES = [
         'APP_DIRS': True,
     }
 ]
+
+ROOT_URLCONF = 'tests.urls'

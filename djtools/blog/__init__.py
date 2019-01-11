@@ -1,1 +1,1 @@
-default_app_config = 'djtools.apps.DjtoolsConfig'
+default_app_config = 'djtools.blog.apps.BlogConfig'
