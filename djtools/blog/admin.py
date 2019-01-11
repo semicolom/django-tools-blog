@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import PostPhoto, Post
+from .models import Post, PostPhoto
 
 
 class PostPhotoInline(admin.TabularInline):
